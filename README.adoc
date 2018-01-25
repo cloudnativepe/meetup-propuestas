@@ -6,5 +6,5 @@ Este repositorio tiene como propósito proponer temas para los meetups en la sec
 
 Para realizar una propuesta, seguir los siguientes pasos:
 
-. Registrar un https://github.com/perujug/propuestas-meetup/issues[issue^] con el tema, descripción y biografía del ponente
+. Registrar un https://github.com/cloudnativepe/meetup-propuestas/issues[issue^] con el tema, descripción y biografía del ponente
 . Asignar label `workshop` ó `talk` y el mes en el que se desea dar la charla
